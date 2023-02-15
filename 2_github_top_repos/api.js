@@ -10,7 +10,7 @@ function Nav(props) {
 	];
 	return (
 		<nav
-			className='navbar navbar-expand-lg navbar-light'
+			className='navbar navbar-expand navbar-light'
 			style={{ backgroundColor: "#6ad7ff" }}>
 			<div className='container-fluid'>
 				<div className='collapse navbar-collapse'>
