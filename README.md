@@ -3,7 +3,7 @@ a place to show the ReactJS apps I make along the learning journey.
 
 ## 1. Todo list
 **simple to do list.**
-![image](https://user-images.githubusercontent.com/13819151/219040104-f17ff7db-ea53-4c51-b26c-8843a7ea35f5.png)
+![image|200](https://user-images.githubusercontent.com/13819151/219040104-f17ff7db-ea53-4c51-b26c-8843a7ea35f5.png)
 
 1. can add a task
 2. can remove a task
